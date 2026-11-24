@@ -1,0 +1,11 @@
+.env.local
+
+.env*
+.vercel/
+/maha-*-deploy.zip
+/maha-gemini-live.zip
+/maha-project-gallery-final.zip
+/maha-cinema-fit.zip
+/maha-contact-contrast.zip
+/maha-mascot-motion.zip
+/maha-ring-cards.zip
